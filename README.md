@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fiza-Imran
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .web desig
+- 🌱 I’m currently learning .web design
   
 
 <!---
